@@ -17,7 +17,7 @@ Key Features:
 - You will be able to Search through all categories, products, sizes, colors, billboards with included pagination!
 - You will be able to control which products are "featured" so they show on the homepage!
 - You will be able to see your orders, sales, etc.
-- You will be able to see graphs of your revenue etc.
+- You will be able to see graphs of your revenue etc!.
 - You will learn Clerk Authentication!
 - Order creation
 - Stripe checkout
